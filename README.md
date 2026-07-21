@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/1200x/fa/22/d4/fa22d4e579df973104ee70dfb2779660.jpg" width="800">
+<img src="https://i.pinimg.com/1200x/fa/22/d4/fa22d4e579df973104ee70dfb2779660.jpg" width="1000">
 <h1 align="center">Hi 👋, I'm Tanishk Verma</h1>
 <h3 align="center">IT Data Analyst & BI Specialist | Engineering Scalable Data Models & Interactive Dashboards</h3>
 
