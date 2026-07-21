@@ -1,3 +1,4 @@
+![logo](https://github.com/vermatanishk8-dotcom/vermatanishk8-dotcom/blob/main/Gemini_Generated_Image_ap0n3map0n3map0n.png)
 <h1 align="center">Hi 👋, I'm Tanishk Verma</h1>
 <h3 align="center">IT Data Analyst & BI Specialist | Engineering Scalable Data Models & Interactive Dashboards</h3>
 
