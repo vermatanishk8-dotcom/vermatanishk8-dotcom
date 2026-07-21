@@ -8,7 +8,7 @@
 <br>
 - 📫 How to reach me **vermatanishk8@gmail.com**
 <br>
-- ⚡ Fun fact **⚡ Fun fact: I can spend hours tweaking a SQL query or Power BI dashboard layout just to make sure the data alignment is pixel-perfect! 📊✨**
+- ⚡ Fun fact: **⚡ I can spend hours tweaking a SQL query or Power BI dashboard layout just to make sure the data alignment is pixel-perfect! 📊✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
