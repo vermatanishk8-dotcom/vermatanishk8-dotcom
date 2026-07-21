@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanishk Verma</h1>
 <h3 align="center">IT Data Analyst & BI Specialist | Engineering Scalable Data Models & Interactive Dashboards</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWE1OGMybXNjbHlibzR3bnpjdWhiMmh1MmtiZmJxc3hjeHVscm91eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWE1OGMybXNjbHlibzR3bnpjdWhiMmh1MmtiZmJxc3hjeHVscm91eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tanishk-verma-03489731a/](https://www.linkedin.com/in/tanishk-verma-03489731a/)
