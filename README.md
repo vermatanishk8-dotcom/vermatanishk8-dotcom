@@ -1,4 +1,4 @@
-<img src="https://github.com/vermatanishk8-dotcom/vermatanishk8-dotcom/blob/main/Análise%20de%20dados%20de%20negócios%20e%20análise%20de%20insights%20de%20clientes%20com%20gráficos%20de%20fundo%20azul%20abstrato%20Generative%20AI%20_%20imagem%20Premium%20gerada%20com%20IA.jpg?raw=true" width="800">
+<img src="https://i.pinimg.com/1200x/fa/22/d4/fa22d4e579df973104ee70dfb2779660.jpg" width="800">
 <h1 align="center">Hi 👋, I'm Tanishk Verma</h1>
 <h3 align="center">IT Data Analyst & BI Specialist | Engineering Scalable Data Models & Interactive Dashboards</h3>
 
